@@ -1,0 +1,2 @@
+# Smart-Parking-Management
+Processes the CCTV feed of the parking lot to recognise vacant and occupied parking spots. Monitors every spot in real-time for any moments and updates the database based on whether the spot is vacant or occupied. The log of the changes in status of every spot is also kept which can be used to revert back in case of any failures. In addition to status of every spot, parking charges for a particular car and total count of parked cars during the day is also maintained in the database.
